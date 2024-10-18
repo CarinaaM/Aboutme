@@ -1,2 +1,2 @@
 # Aboutme
-file:///C:/Users/carinama/Desktop/aboutme.html
+https://carinaam.github.io/Aboutme/
